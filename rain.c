@@ -1,5 +1,5 @@
 /*
-compile w/ gcc
+compile w/ gcc or wtv u want rlly
 ctrl + c to quit
 */
 #include <stdio.h>
